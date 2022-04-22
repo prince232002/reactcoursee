@@ -43,7 +43,7 @@ function App() {
 
 export default App;
 // in terminal write to start react app >> npm start
-/* here
+/* here`
 we use jsx for writing javascipt within html using {} braces with jss code 
 >>we use classname here as class is reserved keyword and same as for etc . (use camel case )
 
