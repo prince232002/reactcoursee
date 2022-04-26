@@ -29,12 +29,12 @@ function App() {
  return (
    <>
    <nav>
-     <li>Home</li>
+     <li>Hoome</li>
      <li>About</li>
      <li>Contact</li>
    </nav>
    <div className="container">
-     <h1>hello {name}</h1>
+     <h1>helloo {name}</h1>
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste repellendus dolores dolorum provident ipsum at veniam repudiandae illum laudantium. Nihil voluptate dignissimos ex!</p>
    </div>
    </>
@@ -43,7 +43,7 @@ function App() {
 
 export default App;
 // in terminal write to start react app >> npm start
-/* here`
+/* here
 we use jsx for writing javascipt within html using {} braces with jss code 
 >>we use classname here as class is reserved keyword and same as for etc . (use camel case )
 
